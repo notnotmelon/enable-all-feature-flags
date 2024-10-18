@@ -6,7 +6,9 @@
   "homepage": "https://github.com/notnotmelon/enable-all-feature-flags",
   "description": "A simple mod to enable all DLC feature flags in Factorio 2.0. This mod only works if you own the DLC!",
   "factorio_version": "2.0",
-  "dependencies": [],
+  "dependencies": [
+    "(?) space-age"
+  ],
   "quality_required": true,
   "space_travel_required": true,
   "spoiling_required": true,
