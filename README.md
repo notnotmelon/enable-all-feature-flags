@@ -11,7 +11,8 @@ A simple mod to enable the following feature flags in Factorio 2.0
   "spoiling_required": true,
   "freezing_required": true,
   "segmented_units_required": true,
-  "expansion_shaders_required": true
+  "expansion_shaders_required": true,
+  "rail_bridges_required": true
 
 ```
 
